@@ -14,3 +14,4 @@ Alteração da pasta 2
 =======
 Alteração da pasta 1
 >>>>>>> c7cc2377f2680f05845f47ec13e66e6c3c066608
+Teste da aula 07

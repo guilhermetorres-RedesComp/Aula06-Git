@@ -5,7 +5,7 @@ Repositório criado para a atividade da disciplina Versionamento de Código (IFR
 
 ## Como executar
 1. Clone o repositório:
-   git clone git@github.com:guilherme-torres/aula06-git.git
+   git clone git@github.com:guilhermetorres-RedesComp/aula06-git.git
 
 2. Entre na pasta:
    cd aula06-git

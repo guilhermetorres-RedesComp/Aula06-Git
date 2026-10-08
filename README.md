@@ -9,4 +9,8 @@ Repositório criado para a atividade da disciplina Versionamento de Código (IFR
 
 2. Entre na pasta:
    cd aula06-git
+<<<<<<< HEAD
 Alteração da pasta 2
+=======
+Alteração da pasta 1
+>>>>>>> c7cc2377f2680f05845f47ec13e66e6c3c066608
